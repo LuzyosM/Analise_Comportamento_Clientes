@@ -1,0 +1,21 @@
+--Q1. Qual é a receita total gerada por clientes do sexo masculino vs. feminino?
+
+--Q2. Quais clientes usaram um desconto mas ainda assim gastaram mais do que o valor médio de compra?
+
+--Q3. Quais são os 5 produtos com a maior média de avaliação?
+
+--Q4. Compare os valores médios de compra entre Envio Padrão e Envio Expresso.
+
+--Q5. Os clientes assinantes gastam mais? Compare o gasto médio e a receita total 
+--entre assinantes e não-assinantes.
+
+--Q6. Quais 5 produtos têm a maior porcentagem de compras com descontos aplicados?
+
+--Q7. Segmente os clientes em Novos, Retornando e Fiéis com base no número total 
+--de compras anteriores, e mostre a contagem de cada segmento.
+
+--Q8. Quais são os 3 produtos mais comprados dentro de cada categoria?
+
+--Q9. Os clientes que são compradores recorrentes (mais de 5 compras anteriores) também têm maior probabilidade de assinar?
+
+--Q10. Qual é a contribuição de receita de cada faixa etária?
